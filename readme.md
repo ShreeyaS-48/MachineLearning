@@ -1,2 +1,2 @@
-This is a repository of my Machine Learning Mini Projects.
+This is a repository of my Machine Learning and Deep Learning Mini Projects.
 Dataset used from Kaggle.
